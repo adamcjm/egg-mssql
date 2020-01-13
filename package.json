@@ -1,5 +1,5 @@
 {
-  "name": "egg-mssql",
+  "name": "egg-mssql-publiic",
   "version": "1.0.0",
   "description": "SQLServer plugin for egg",
   "eggPlugin": {
